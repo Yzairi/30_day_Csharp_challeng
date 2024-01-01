@@ -1,0 +1,14 @@
+G:\yassin\Dev\Console\30_day_c#_chalenge\bin\Debug\net7.0\30_day_c#_chalenge.exe
+G:\yassin\Dev\Console\30_day_c#_chalenge\bin\Debug\net7.0\30_day_c#_chalenge.deps.json
+G:\yassin\Dev\Console\30_day_c#_chalenge\bin\Debug\net7.0\30_day_c#_chalenge.runtimeconfig.json
+G:\yassin\Dev\Console\30_day_c#_chalenge\bin\Debug\net7.0\30_day_c#_chalenge.dll
+G:\yassin\Dev\Console\30_day_c#_chalenge\bin\Debug\net7.0\30_day_c#_chalenge.pdb
+G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\30_day_c#_chalenge.GeneratedMSBuildEditorConfig.editorconfig
+G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\30_day_c#_chalenge.AssemblyInfoInputs.cache
+G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\30_day_c#_chalenge.AssemblyInfo.cs
+G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\30_day_c#_chalenge.csproj.CoreCompileInputs.cache
+G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\30_day_c#_chalenge.dll
+G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\refint\30_day_c#_chalenge.dll
+G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\30_day_c#_chalenge.pdb
+G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\30_day_c#_chalenge.genruntimeconfig.cache
+G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\ref\30_day_c#_chalenge.dll
