@@ -10,12 +10,11 @@ namespace _30_day_c__chalenge
             var ferrary = new Car(new DateOnly(2024, 01, 01), "Avetador", 200000);
             ferrary.Start();
             ferrary.Accelerate();
-            ferrary.Tostring();
+            Console.WriteLine(ferrary.ToString());
             var ram = new Truck(new DateOnly(2024, 01, 01), "BIIIP BIIIP !!!", 125000);
             ram.Start();
             ram.Accelerate();
-            ram.Tostring();
-
+            Console.WriteLine(ram.ToString());
         }
     }
 }

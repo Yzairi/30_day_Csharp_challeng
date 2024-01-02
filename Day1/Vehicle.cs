@@ -18,9 +18,9 @@
 
         public abstract void Accelerate();
 
-        public void Tostring()
+        public override string ToString()
         {
-            Console.WriteLine($"Le numero de matriculationest {_registrationNumber}, de l’année {_year}, du modèle {_model} et du prix :{_price} $");
+            return($"Le numero de matriculationest {_registrationNumber}, de l’année {_year}, du modèle {_model} et du prix :{_price} $");
         }
     }
 }
