@@ -14,7 +14,7 @@ namespace _30_day_c__chalenge
             var ram = new Truck(new DateOnly(2024, 01, 01), "BIIIP BIIIP !!!", 125000);
             ram.Start();
             ram.Accelerate();
-            Console.WriteLine(ram.ToString());
+            Console.WriteLine(ram);
         }
     }
 }

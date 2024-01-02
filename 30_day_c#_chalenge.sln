@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_day_c#_chalenge", "30_day_c#_chalenge.csproj", "{32053A72-C95C-42BE-BB49-235A3941345C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30_day_c#_chalenge", "30_day_c#_chalenge.csproj", "{32053A72-C95C-42BE-BB49-235A3941345C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppDay2", "..\WpfAppDay2\WpfAppDay2.csproj", "{DC605B54-1562-4E50-AA2F-CE379FD611EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{32053A72-C95C-42BE-BB49-235A3941345C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32053A72-C95C-42BE-BB49-235A3941345C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32053A72-C95C-42BE-BB49-235A3941345C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC605B54-1562-4E50-AA2F-CE379FD611EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC605B54-1562-4E50-AA2F-CE379FD611EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC605B54-1562-4E50-AA2F-CE379FD611EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC605B54-1562-4E50-AA2F-CE379FD611EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
