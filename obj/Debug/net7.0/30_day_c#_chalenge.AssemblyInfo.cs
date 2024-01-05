@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("30_day_c#_chalenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04a1f39f9f69e2eeb235f2da7a786b5112dba43f")]
 [assembly: System.Reflection.AssemblyProductAttribute("30_day_c#_chalenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("30_day_c#_chalenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

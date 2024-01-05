@@ -1,0 +1,38 @@
+﻿Day 5
+Définir les propriétés et méthodes d’une classe
+Définir des constructeurs
+Créer une instance de classe
+Accéder par les accesseurs aux propriétés en lecture et écriture d’un objet
+Appliquer des méthodes
+
+
+Travail à faire:
+Écrire une classe Complexes permettant de représenter des nombres complexes. Un nombre complexe Z comporte une partie réelle et une partie imaginaire :                             Z = PartieRéelle + PartieImaginaire * i
+Définir à l’aide des propriétés les méthodes d’accès aux attributs de la classe.
+Définir un constructeur par défaut permettant d’initialiser les deux parties du nombre à 0.
+Définir un constructeur d’initialisation pour la classe.
+Ajouter les méthodes suivantes :
+Plus(Complexe) : Elle permet de retourner le nombre complexe obtenu en ajoutant au nombre en cours un nombre complexe passé en argument.
+Moins(Complexe) : Elle permet de retourner le nombre complexe obtenu en soustrayant au nombre en cours un nombre complexe passé en argument.
+Afficher ( ) : Elle donne une représentation d'un nombre complexe comme suit : a+b*i.
+Écrire un programme permettant de tester la classe Complexe.
+
+Exemple d’exécution :
+Nombre Complexe 1:
+Donner la partie réelle: 2
+Donner la partie imaginaire: 4
+Nombre Complexe 1: 2+4i
+
+Nombre Complexe 2:
+
+Donner la partie réelle: 3
+Donner la partie imaginaire: -2
+Nombre Complexe 2: 3-2i
+La somme:
+5+2i
+
+
+La Différence:
+-1+6i
+
+https://www.exelib.net/csharp-poo/la-classe-complexe.html

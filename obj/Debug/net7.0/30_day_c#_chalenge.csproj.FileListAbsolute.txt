@@ -12,3 +12,4 @@ G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\refint\30_day_c#_chale
 G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\30_day_c#_chalenge.pdb
 G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\30_day_c#_chalenge.genruntimeconfig.cache
 G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\ref\30_day_c#_chalenge.dll
+G:\yassin\Dev\Console\30_day_c#_chalenge\obj\Debug\net7.0\30_day_c#_chalenge.sourcelink.json
