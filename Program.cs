@@ -1,6 +1,9 @@
 ﻿using _30_day_c__chalenge.Day1;
 using _30_day_c__chalenge.Day3;
 using _30_day_c__chalenge.Day5;
+using System.Drawing;
+using System.Threading;
+using System.Timers;
 
 namespace _30_day_c__chalenge
 {
@@ -32,17 +35,23 @@ namespace _30_day_c__chalenge
             //article.AfficherArticle();
 
             //Exo5
-            Complexe complexe1 = new(5, 7);
-            Complexe complexe2 = new(2, 8);
-            Complexe complexe3 = new(3, 9);
-            Complexe complexe4 = new(4, 10);
-            Complexe complexe5 = new(5, 11);
-            Console.WriteLine();
-            Console.WriteLine(complexe1.ToString());
-            Console.WriteLine(complexe2.ToString());
-            Console.WriteLine();
-            Complexe.Plus(complexe1, complexe2);
-            Complexe.Minus(complexe1, complexe2);
+            //Complexe complexe1 = new(5, 7);
+            //Complexe complexe2 = new(2, 8);
+            //Complexe complexe3 = new(3, 9);
+            //Complexe complexe4 = new(4, 10);
+            //Complexe complexe5 = new(5, 11);
+            //Console.WriteLine();
+            //Console.WriteLine(complexe1.ToString());
+            //Console.WriteLine(complexe2.ToString());
+            //Console.WriteLine();
+            //Complexe.Plus(complexe1, complexe2);
+            //Complexe.Minus(complexe1, complexe2);
+            //Exo6
+            while (true)
+            {
+                _30_day_c__chalenge.Day6.Point point = new();
+                point.Norme();
+            }
         }
     }
 }
