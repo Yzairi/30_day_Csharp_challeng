@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30_day_c#_chalenge", "30_da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppDay2", "..\WpfAppDay2\WpfAppDay2.csproj", "{DC605B54-1562-4E50-AA2F-CE379FD611EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppDay4", "..\WpfAppDay4\WpfAppDay4.csproj", "{F6B0B08D-8E7E-433C-AFC7-1F39882F612E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppDay4", "..\WpfAppDay4\WpfAppDay4.csproj", "{F6B0B08D-8E7E-433C-AFC7-1F39882F612E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day8", "Day8", "{916B434F-DBE6-4C25-9826-BE21742B0966}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
