@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppDay2", "..\WpfAppDay2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppDay4", "..\WpfAppDay4\WpfAppDay4.csproj", "{F6B0B08D-8E7E-433C-AFC7-1F39882F612E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day8", "Day8", "{916B434F-DBE6-4C25-9826-BE21742B0966}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
